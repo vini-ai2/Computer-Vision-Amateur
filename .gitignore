@@ -1,1 +1,8 @@
 /lab4/opencv4_temp
+/lab5/road.*
+/lab5/road_*
+/lab5/yolo11n.pt
+lab5/*.avi
+lab5/*.mp4
+/lab6/camera_calib/calibration_images
+/lab6/camera_calib/calibration_debug
